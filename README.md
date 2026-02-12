@@ -37,3 +37,7 @@
 
 [Reports Generation](/docs/reports-generation.md)
 
+
+----------------------------------------------------------
+<p align="center">© 2026 Vastra</p>
+
