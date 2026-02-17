@@ -7,7 +7,7 @@
 
 **Site Map**
 
-[Project Homepage](/README.md)
+[Project Homepage](/docs/project-homepage.md)
 
 [Voter Import](/docs/voter-import.md)
 
