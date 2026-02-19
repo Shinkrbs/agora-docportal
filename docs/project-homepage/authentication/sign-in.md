@@ -4,7 +4,7 @@
 
 # Sign In
 
-The **Sign In** module acts as the secure gateway for administrators to access their dashboards. It features a dual-authentication approach using Google OAuth integration or using the traditional email and password fields. Additionally, the module also includes importan account management features such as "Forgot Password?" link for account recovery and "Sign up" link for new administrators.
+The **Sign In** module acts as the secure gateway for administrators to access their dashboards. It features a dual-authentication approach using Google OAuth integration or using the traditional email and password fields. Additionally, the module also includes important account management features such as "Forgot Password?" link for account recovery and "Sign up" link for new administrators.
 
 # Use Case Scenario
 
