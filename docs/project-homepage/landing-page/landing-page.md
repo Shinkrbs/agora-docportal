@@ -18,5 +18,6 @@ The **Landing Page** serves as the public-facing storefront and introductory hub
 | **Alternative Flow (Voter)** | 1. User navigates to the landing page to find the voting area.<br>2. User scrolls to the bottom CTA section.<br>3. User clicks **"Vote Now"**.<br>4. System redirects the user to the secure **Voter Authentication** portal. |
 | **Alternative Flow (Mobile)** | 1. User accesses the landing page via a smartphone.<br>2. System provides a **Mobile Responsive** layout with optimized navigation for small screens. |
 | **Post-conditions** | The user is successfully funneled to either the administrative registration flow or the voter participation portal. |
+
 ----------------------------------------------------------
 <p align="center">© 2026 Vastra</p>
