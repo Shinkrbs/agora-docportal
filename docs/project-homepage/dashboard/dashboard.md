@@ -10,7 +10,7 @@ The **Dashboard** is the main screen admins see after logging in. It shows a qui
 
 | Field | Description |
 | :--- | :--- |
-| **Use Case Name** | View Status in the project |
+| **Use Case Name** | View Status |
 | **Actor** | Admin |
 | **Pre-conditions** | Admin is logged in. |
 | **Trigger** | Admin opens the Dashboard. |

@@ -10,7 +10,7 @@ The **Sign In** module acts as the secure gateway for administrators to access t
 
 | Field | Description |
 | :--- | :--- |
-| **Use Case Name** | Admin Login for Student Organization Election System (SOES) |
+| **Use Case Name** | Admin Login |
 | **Actor** | System Administrator / Organization Officer |
 | **Pre-conditions** | 1. User must have an active admin account.<br>2. User must have a stable internet connection. |
 | **Trigger** | User navigates to the SOES login URL. |

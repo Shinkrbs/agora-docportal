@@ -1,4 +1,4 @@
-<small> [Election Session Creation](/docs/election-session-creation) > <u>[election-session-creation.md](/docs/duplicate-vote-prevention/election-session-creation.md/)</u></small>
+<small> [Election Session Creation](/docs/election-session-creation) > <u>[election-session-creation.md](/docs/election-session-creation/election-session-creation.md/)</u></small>
 
 ![Election Session Creation](/assets/election-session-creation/CreateElectionSession.png)
 

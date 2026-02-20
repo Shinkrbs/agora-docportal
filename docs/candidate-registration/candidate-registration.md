@@ -10,7 +10,7 @@ The **Candidate Registration** module is where admins add people running for off
 
 | Field | Description |
 | :--- | :--- |
-| **Use Case Name** | Register New Candidate for the project |
+| **Use Case Name** | Register New Candidate |
 | **Actor** | System Admin / Election Officer |
 | **Pre-conditions** | 1. Admin is logged in.<br>2. The candidate has passed a manual verification check. |
 | **Trigger** | Admin clicks on "Candidates & Party Lists" and selects "Add Candidate." |
