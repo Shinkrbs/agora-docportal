@@ -10,7 +10,7 @@ The **Vote Tally Automation** module is the core engine of the project that hand
 
 | Field | Description |
 | :--- | :--- |
-| **Use Case Name** | Automated Vote Counting for the project |
+| **Use Case Name** | Automated Vote Counting |
 | **Actor** | System Backend (Automated) |
 | **Pre-conditions** | 1. An election session is "Ongoing."<br>2. A voter has successfully submitted a secure ballot. |
 | **Trigger** | A voter clicks the "Yes, Submit Vote" button. |

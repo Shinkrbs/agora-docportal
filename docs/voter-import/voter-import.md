@@ -10,7 +10,7 @@ The **Voter Import** module allows admins to add a list of eligible students who
 
 | Field | Description |
 | :--- | :--- |
-| **Use Case Name** | Add Eligible Voters to the project |
+| **Use Case Name** | Add Eligible Voters |
 | **Actor** | System Admin / Election Officer |
 | **Pre-conditions** | 1. Admin is logged in.<br>2. An election session has been created. |
 | **Trigger** | Admin opens the "Voter Management" section and selects "Import Voters". |
