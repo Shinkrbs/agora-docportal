@@ -1,5 +1,7 @@
 <small> [Reports Generation](/docs/reports-generation) > <u>[reports-generation.md](/docs/reports-generation/reports-generation.md/)</u></small>
 
+![Reports Generation](/assets/reports-generation/ReportsGeneration.png)
+
 # Reports Generation
 
 The **Reports Generation** module handles the final documentation for the project. To ensure accuracy and security, the system automatically creates an official report as soon as an election session ends. Admins do not need to compile data manually; they can simply go to this module to download the finished report for record-keeping and official audits.
