@@ -1,4 +1,4 @@
-<small> [Duplicate Vote Prevention](/docs/duplicate-vote-prevention) > <u>[duplicate-vote-prevention](/docs/duplicate-vote-prevention/duplicate-vote-prevention.md/)</u></small>
+<small> [Duplicate Vote Prevention](/docs/duplicate-vote-prevention) > <u>[duplicate-vote-prevention.md](/docs/duplicate-vote-prevention/duplicate-vote-prevention.md/)</u></small>
 
 ![Duplicate Vote Prevention](/assets/duplicate-vote-prevention/DuplicateVotePrevention.png)
 
