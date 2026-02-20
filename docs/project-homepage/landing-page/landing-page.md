@@ -6,7 +6,7 @@
 
 The **Landing Page** serves as the public-facing storefront and introductory hub. It is designed to convert visitors specifically student organization leaders into active users by highlighting the platform's core value propositions: security, transparency, and modern efficiency. The layout features a high-impact hero section, a "Why SOES?" feature showcase, a step-by-step onboarding guide, and a comprehensive list of system capabilities. Finally, it concludes with a dual Call-to-Action (CTA) allowing users to either begin the organization setup process or proceed directly to the voting portal.
 
-# Use Case
+# Use Case Scenario
 
 | Field | Description |
 | :--- | :--- |

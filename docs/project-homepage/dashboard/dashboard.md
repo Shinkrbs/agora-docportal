@@ -6,7 +6,7 @@
 
 The **Dashboard** is the main screen admins see after logging in. It shows a quick summary of how the current voting is going. It displays things like how many people have voted so far and if the system is working correctly. It also has buttons to quickly reach other parts of the project.
 
-# Use Case
+# Use Case Scenario
 
 | Field | Description |
 | :--- | :--- |

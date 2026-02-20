@@ -6,7 +6,7 @@
 
 The **Election Session Creation** module is where admins set up a new voting event for the project. To start, an admin gives the election a clear title and sets the specific start and end dates for when students can vote. The admin also selects a pre-made position template to decide which offices (like President or Secretary) are being contested. This module makes it easy to launch multiple different elections for various student groups quickly and accurately.
 
-# Use Case
+# Use Case Scenario
 
 | Field | Description |
 | :--- | :--- |

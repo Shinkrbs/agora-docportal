@@ -6,7 +6,7 @@
 
 The **Position Templates** module allows admins to create and reuse sets of positions for different elections in the project. Instead of adding every position (like President, Vice President, etc.) manually for every new election, an admin can save them as a template. This makes setting up a new election much faster and ensures that all organizational setups remain consistent across different voting sessions.
 
-# Use Case
+# Use Case Scenario
 
 | Field | Description |
 | :--- | :--- |

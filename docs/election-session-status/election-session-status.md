@@ -4,7 +4,7 @@
 
 The **Election Session Status** module lets admins see the current state of any voting event in the project. It uses simple labels to show what stage the election is in. For example, a "Pending" status means the election hasn't started yet, while "Ongoing" means students are currently voting, or "Paused" means the election is stopped for the mean time. Once the time is up, it changes to "Closed," and finally "Results Posted" when the admin shares the winners. This helps everyone stay organized and informed.
 
-# Use Case
+# Use Case Scenario
 
 | Field | Description |
 | :--- | :--- |

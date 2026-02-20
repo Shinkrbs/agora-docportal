@@ -4,9 +4,7 @@
 
 The **Partylist Management** module allows admins to organize candidates into official groups or "partylists". This module makes it easy to manage team-based campaigns by letting admins create a partylist identity and then assign specific verified candidates to it. This ensures that the digital ballot correctly groups candidates who are running together, helping voters identify their preferred political groups. To save time, admins can add candidates one by one or use the batch import feature to upload a large list of partylists and their members at once using a CSV file.
 
-
-
-# Use Case
+# Use Case Scenario
 
 | Field | Description |
 | :--- | :--- |

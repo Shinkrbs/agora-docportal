@@ -6,7 +6,7 @@
 
 The **Candidate Registration** module is where admins add people running for office to the system. After a rigorous manual analysis and verification of the candidate's eligibility and requirements, they can be officially added to the system. This module ensures that only qualified individuals appear on the ballot. Admins can add candidates one by one or save time by using the batch import feature to upload a large list of candidates at once using a CSV file.
 
-# Use Case
+# Use Case Scenario
 
 | Field | Description |
 | :--- | :--- |

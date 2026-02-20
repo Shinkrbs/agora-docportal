@@ -6,7 +6,7 @@
 
 The **Live Results** module provides a real-time and transparent view of how the voting is going. The system automatically counts every vote as it is cast, so there is no need for manual counting. The link to view these live results is sent directly to each voter's email along with their unique one-time voting code.
 
-# Use Case
+# Use Case Scenario
 
 | Field | Description |
 | :--- | :--- |

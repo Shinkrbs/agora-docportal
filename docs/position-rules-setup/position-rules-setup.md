@@ -4,7 +4,7 @@
 
 The **Position Rules Setup** module allows admins to set specific requirements for every position in the election. After an admin chooses a position, they can add rules to make sure only qualified students can run. For example, an admin can set a rule so that a specific position is "for 3rd year students only" or "limited to Computer Science students." This module ensures that the election follows the official organization's rules and keeps the process fair.
 
-# Use Case
+# Use Case Scenario
 
 | Field | Description |
 | :--- | :--- |

@@ -6,7 +6,7 @@
 
 The **Duplicate Vote Prevention** module is a key security feature of the project. It ensures that every student can only vote one time. This works by giving each voter a **One-time Voting Code** using the email they provided. When a student is ready to vote, they must enter this unique code into the voting interface. Once a code is used to submit a ballot, the system marks it as "used," and it cannot be used again. This simple method keeps the election fair and prevents anyone from voting twice.
 
-# Use Case
+# Use Case Scenario
 
 | Field | Description |
 | :--- | :--- |
