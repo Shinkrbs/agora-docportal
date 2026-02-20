@@ -18,3 +18,6 @@ The **Candidate Registration** module is where admins add people running for off
 | **Alternative Flow (Batch Import)** | 1. Admin selects the **"Import CSV"** option.<br>2. Admin uploads a CSV file containing multiple candidate records.<br>3. System parses the file and adds all valid candidates to the system at once. |
 | **Exception Flow** | 1. Admin misses a required field.<br>2. System highlights the empty field and prevents saving until it is fixed. |
 | **Post-conditions** | The candidate is now officially part of the election and will appear on the digital ballot for voters. |
+
+----------------------------------------------------------
+<p align="center">© 2026 Vastra</p>
