@@ -1,11 +1,11 @@
 # AGORA
+
 **Target:** AG.010.001
 
-| Internal Release Code | Document Version | Description | Tracking Notes | Approved By |
-| --------------------- | ------------- | -------------- | -------------- | ----------  |
-| ***2026/02/20***  | V1.0               | Inital Release of Complete Design Specification Documentation           |     AG.010.001           |  Dolamos, Shn Kerby C. (Project Manager)        |
-
-
+| Internal Release Code | Document Version | Description                                                   | Tracking Notes | Approved By                             |
+| --------------------- | ---------------- | ------------------------------------------------------------- | -------------- | --------------------------------------- |
+| **_2026/02/20_**      | V1.0             | Inital Release of Complete Design Specification Documentation | AG.010.001     | Dolamos, Shn Kerby C. (Project Manager) |
+| **_2026/03/15_**      | V1.1             | Election Session Creation Documentation Update                | AG.010.002     | Dolamos, Shn Kerby C. (Project Manager) |
 
 **Site Map**
 
@@ -39,7 +39,6 @@
 
 [Reports Generation](/docs/reports-generation//reports-generation.md)
 
+---
 
-----------------------------------------------------------
 <p align="center">© 2026 Vastra</p>
-
