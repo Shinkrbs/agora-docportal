@@ -23,4 +23,4 @@ The **Election Session Creation** module is where organization officers set up n
 
 ---
 
-<p align="center">© 2026 Vastra</p>
+<p align="center">© 2026 Agora</p>
